@@ -3007,3 +3007,9 @@ academic_year,exam_year,Area,Area_code,Pupil_group,school_type_short,x_value,n_v
 2022-23,2023,Waltham Forest,E09000031,FSM,Secondary,4340,16717,0.25961596
 2022-23,2023,Buckinghamshire,E06000060,FSM,Secondary,4359,34383,0.126777768
 2022-23,2023,Buckinghamshire,E06000060,Disadvantaged pupils,Secondary,4793,34383,0.139400285
+2023-24,2024,England,E0,SEN Support,Total,9092073,1238851,0.136256165
+2023-24,2024,England,E0,SEN Statement,Total,9092073,434354,0.047772824
+2023-24,2024,England,E0,SEN Statement,Primary,4614990,136642,0.029608298
+2023-24,2024,England,E0,SEN Support,Primary,4614990,651458,0.141161303
+2023-24,2024,England,E0,SEN Support,Secondary,3669933,471677,0.12852469
+2023-24,2024,England,E0,SEN Statement,Secondary,3669933,99825,0.027200769
