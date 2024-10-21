@@ -1,4 +1,4 @@
-time_period,phase_type_grouping,pupil_sen_status,primary_need,pupil_count,Needs.Need_code,Needs.Need_category,AYCode
+time_period,phase_type_grouping,pupil_sen_status,primary_need,pupil_count,Need_code,Need_category,AYCode
 202324,special,EHC plans,Autistic Spectrum Disorder,1339,ASD,Communication & Interaction,2023
 202324,special,SEN Support,Autistic Spectrum Disorder,7,ASD,Communication & Interaction,2023
 202324,special,EHC plans,Hearing Impairment,376,HI,Physical &/or Sensory,2023
