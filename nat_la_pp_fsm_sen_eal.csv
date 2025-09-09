@@ -33633,3 +33633,7 @@ academic_year,exam_year,Area,Area_code,Pupil_group,school_type_short,x_value,n_v
 202425,2025,Yorkshire and The Humber,E12000003,EAL,secondary,57450,358472.9999,0.160263116
 202425,2025,Yorkshire and The Humber,E12000003,EAL,special school,1905,14184,0.134306261
 202425,2025,Yorkshire and The Humber,E12000003,EAL,Total,153283,845048,0.181389696
+202425,2025,England,E0,EAL,primary,249266,1065551,0.233931302
+202425,2025,England,E0,EAL,secondary,134865,703666,0.191660082
+202425,2025,England,E0,EAL,special,3451,23824,0.144833791
+202425,2025,England,E0,EAL,Total,386041,1806029,0.213751252
