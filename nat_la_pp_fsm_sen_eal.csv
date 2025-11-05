@@ -34275,7 +34275,7 @@ academic_year,exam_year,Area,Area_code,Pupil_group,school_type_short,x_value,n_v
 202425,2025,Oxfordshire,E10000025,SEN Support,primary,8976,55276,0.162385122
 202425,2025,Oxfordshire,E10000025,SEN Support,secondary,7611,44474,0.171133696
 202425,2025,Oxfordshire,E10000025,SEN Support,special,1,1426,0.000701262
-202425,2025,Oxfordshire,E10000025,SEN Support,special,0,0,#DIV/0!
+202425,2025,Oxfordshire,E10000025,SEN Support,special,0,0,
 202425,2025,Surrey,E10000030,SEN Support,primary,11729,90785,0.129195352
 202425,2025,Surrey,E10000030,SEN Support,secondary,9199,68319,0.134647755
 202425,2025,Surrey,E10000030,SEN Support,special,10,3458,0.002891845
@@ -34557,7 +34557,7 @@ academic_year,exam_year,Area,Area_code,Pupil_group,school_type_short,x_value,n_v
 202425,2025,Medway,E06000035,SEN Support,Total,7659,52903,0.144774398
 202425,2025,Isle of Wight,E06000046,SEN Support,Total,2854,17013,0.16775407
 202425,2025,Oxfordshire,E10000025,SEN Support,Total,20677,119411,0.173158252
-202425,2025,Oxfordshire,E10000025,SEN Support,Total,0,0,#DIV/0!
+202425,2025,Oxfordshire,E10000025,SEN Support,Total,0,0,
 202425,2025,Surrey,E10000030,SEN Support,Total,29971,204097,0.146846842
 202425,2025,West Sussex,E10000032,SEN Support,Total,21045,130832,0.160855142
 202425,2025,Isles of Scilly,E06000053,SEN Support,Total,34,251,0.135458167
@@ -35503,7 +35503,7 @@ academic_year,exam_year,Area,Area_code,Pupil_group,school_type_short,x_value,n_v
 202425,2025,Oxfordshire,E10000025,SEN Statement,primary,2078,55276,0.037593169
 202425,2025,Oxfordshire,E10000025,SEN Statement,secondary,1567,44474,0.035234069
 202425,2025,Oxfordshire,E10000025,SEN Statement,special,1425,1426,0.999298738
-202425,2025,Oxfordshire,E10000025,SEN Statement,special,0,0,#DIV/0!
+202425,2025,Oxfordshire,E10000025,SEN Statement,special,0,0,
 202425,2025,Surrey,E10000030,SEN Statement,primary,3870,90785,0.042628187
 202425,2025,Surrey,E10000030,SEN Statement,secondary,2466,68319,0.036095376
 202425,2025,Surrey,E10000030,SEN Statement,special,3448,3458,0.997108155
@@ -35660,7 +35660,7 @@ academic_year,exam_year,Area,Area_code,Pupil_group,school_type_short,x_value,n_v
 202425,2025,St. Helens,E08000013,SEN Statement,Total,1769,27397,0.064569113
 202425,2025,Sefton,E08000014,SEN Statement,Total,2615,42280,0.061849574
 202425,2025,Wirral,E08000015,SEN Statement,Total,3681,51536,0.071425799
-202425,2025,Wirral,E08000015,SEN Statement,Total,z,4,#VALUE!
+202425,2025,Wirral,E08000015,SEN Statement,Total,,4,
 202425,2025,Bolton,E08000001,SEN Statement,Total,3063,57557,0.053216811
 202425,2025,Bury,E08000002,SEN Statement,Total,1975,30988,0.063734349
 202425,2025,Manchester,E08000003,SEN Statement,Total,6788,99555,0.068183416
@@ -35785,7 +35785,7 @@ academic_year,exam_year,Area,Area_code,Pupil_group,school_type_short,x_value,n_v
 202425,2025,Medway,E06000035,SEN Statement,Total,2345,52903,0.044326409
 202425,2025,Isle of Wight,E06000046,SEN Statement,Total,1160,17013,0.068183154
 202425,2025,Oxfordshire,E10000025,SEN Statement,Total,5642,119411,0.047248578
-202425,2025,Oxfordshire,E10000025,SEN Statement,Total,0,0,#DIV/0!
+202425,2025,Oxfordshire,E10000025,SEN Statement,Total,0,0,
 202425,2025,Surrey,E10000030,SEN Statement,Total,12067,204097,0.059123848
 202425,2025,West Sussex,E10000032,SEN Statement,Total,6899,130832,0.052731748
 202425,2025,Isles of Scilly,E06000053,SEN Statement,Total,10,251,0.039840637
@@ -35831,7 +35831,7 @@ academic_year,exam_year,Area,Area_code,Pupil_group,school_type_short,x_value,n_v
 202425,2025,Wirral,E08000015,SEN Statement,primary,976,26012,0.037521144
 202425,2025,Wirral,E08000015,SEN Statement,secondary,800,22121,0.03616473
 202425,2025,Wirral,E08000015,SEN Statement,special,1671,1675,0.99761194
-202425,2025,Wirral,E08000015,SEN Statement,special,z,4,#VALUE!
+202425,2025,Wirral,E08000015,SEN Statement,special,,4,
 202425,2025,Bolton,E08000001,SEN Statement,primary,1072,30409,0.035252721
 202425,2025,Bolton,E08000001,SEN Statement,secondary,631,22354,0.02822761
 202425,2025,Bolton,E08000001,SEN Statement,special,1118,1129,0.990256864
