@@ -2513,3 +2513,63 @@ time_period,phase_type_grouping,pupil_sen_status,primary_need,pupil_count,Need_c
 201516,Total,Total,Specific Learning Difficulty,151559,SPLD,Cognition & Learning,2015
 201516,Total,Total,"Speech, Language and Communications needs",225245,SLCN,Communication & Interaction,2015
 201516,Total,Total,Visual Impairment,11668,VI,Physical &/or Sensory,2015
+202425,primary,Total,Autistic Spectrum Disorder,103067,ASD,,2024
+202425,primary,Total,Down Syndrome,1078,DS,,2024
+202425,primary,Total,Hearing Impairment,11415,HI,,2024
+202425,primary,Total,Missing,3725281,MN,,2024
+202425,primary,Total,Moderate Learning Difficulty,102962,MLD,,2024
+202425,primary,Total,Multi-sensory impairment,2394,MSI,,2024
+202425,primary,Total,Other difficulty or disability,21002,OTH,,2024
+202425,primary,Total,Physical Disability,16395,PD,,2024
+202425,primary,Total,Profound & Multiple Learning Difficulty,1533,PMLD,,2024
+202425,primary,Total,SEN support but no specialist assessment of type of need,39925,NSA,,2024
+202425,primary,Total,Severe Learning Difficulty,3418,SLD,,2024
+202425,primary,Total,"Social, Emotional and Mental Health",161758,SEMH,,2024
+202425,primary,Total,Specific Learning Difficulty,66371,SPLD,,2024
+202425,primary,Total,"Speech, Language and Communications needs",292643,SLCN,,2024
+202425,primary,Total,Visual Impairment,5732,VI,,2024
+202425,secondary,Total,Autistic Spectrum Disorder,95703,ASD,,2024
+202425,secondary,Total,Down Syndrome,68,DS,,2024
+202425,secondary,Total,Hearing Impairment,10621,HI,,2024
+202425,secondary,Total,Missing,3064916,MN,,2024
+202425,secondary,Total,Moderate Learning Difficulty,87410,MLD,,2024
+202425,secondary,Total,Multi-sensory impairment,1825,MSI,,2024
+202425,secondary,Total,Other difficulty or disability,25603,OTH,,2024
+202425,secondary,Total,Physical Disability,14554,PD,,2024
+202425,secondary,Total,Profound & Multiple Learning Difficulty,544,PMLD,,2024
+202425,secondary,Total,SEN support but no specialist assessment of type of need,17291,NSA,,2024
+202425,secondary,Total,Severe Learning Difficulty,1898,SLD,,2024
+202425,secondary,Total,"Social, Emotional and Mental Health",157411,SEMH,,2024
+202425,secondary,Total,Specific Learning Difficulty,108598,SPLD,,2024
+202425,secondary,Total,"Speech, Language and Communications needs",78349,SLCN,,2024
+202425,secondary,Total,Visual Impairment,6636,VI,,2024
+202425,special,Total,Autistic Spectrum Disorder,61982,ASD,,2024
+202425,special,Total,Down Syndrome,447,DS,,2024
+202425,special,Total,Hearing Impairment,1225,HI,,2024
+202425,special,Total,Missing,33,MN,,2024
+202425,special,Total,Moderate Learning Difficulty,13849,MLD,,2024
+202425,special,Total,Multi-sensory impairment,359,MSI,,2024
+202425,special,Total,Other difficulty or disability,2642,OTH,,2024
+202425,special,Total,Physical Disability,4394,PD,,2024
+202425,special,Total,Profound & Multiple Learning Difficulty,8214,PMLD,,2024
+202425,special,Total,SEN support but no specialist assessment of type of need,56,NSA,,2024
+202425,special,Total,Severe Learning Difficulty,27429,SLD,,2024
+202425,special,Total,"Social, Emotional and Mental Health",19977,SEMH,,2024
+202425,special,Total,Specific Learning Difficulty,3969,SPLD,,2024
+202425,special,Total,"Speech, Language and Communications needs",19063,SLCN,,2024
+202425,special,Total,Visual Impairment,853,VI,,2024
+202425,Total,Total,Autistic Spectrum Disorder,263989,ASD,,2024
+202425,Total,Total,Down Syndrome,1647,DS,,2024
+202425,Total,Total,Hearing Impairment,23764,HI,,2024
+202425,Total,Total,Missing,6823276,MN,,2024
+202425,Total,Total,Moderate Learning Difficulty,204983,MLD,,2024
+202425,Total,Total,Multi-sensory impairment,4630,MSI,,2024
+202425,Total,Total,Other difficulty or disability,49877,OTH,,2024
+202425,Total,Total,Physical Disability,35950,PD,,2024
+202425,Total,Total,Profound & Multiple Learning Difficulty,10606,PMLD,,2024
+202425,Total,Total,SEN support but no specialist assessment of type of need,57779,NSA,,2024
+202425,Total,Total,Severe Learning Difficulty,33130,SLD,,2024
+202425,Total,Total,"Social, Emotional and Mental Health",350534,SEMH,,2024
+202425,Total,Total,Specific Learning Difficulty,179554,SPLD,,2024
+202425,Total,Total,"Speech, Language and Communications needs",396025,SLCN,,2024
+202425,Total,Total,Visual Impairment,13465,VI,,2024
