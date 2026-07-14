@@ -1,73 +1,77 @@
 time_identifier,time_period,geographic_level,country_code,country_name,region_code,region_name,new_la_code,old_la_code,la_name,school_type,characteristic_group,characteristic,headcount,perm_excl,perm_excl_rate,suspension,susp_rate,one_plus_susp,one_plus_susp_rate
-Academic year,201011,National,E92000001,England,,,,,,State-funded special,Total,Total,92918,108,0.116231516,14342,15.43511483,5650,6.080630233
-Academic year,200910,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3278485,5020.020384,0.153120127,279262,8.518019756,154474,4.711749482
-Academic year,200910,National,E92000001,England,,,,,,State-funded special,Total,Total,91817,102,0.111090539,14906,16.23446638,5884,6.408399316
-Academic year,201213,National,E92000001,England,,,,,,State-funded primary,Total,Total,4309582,665,0.015430731,37865,0.878623495,19384,0.449788402
-Academic year,201213,National,E92000001,England,,,,,,Total,Total,Total,7616872,4632,0.060812365,267520,3.51220291,146071,1.917729483
-Academic year,201011,National,E92000001,England,,,,,,Total,Total,Total,7493306,5082,0.067820532,324106,4.325273784,174280,2.325809196
-Academic year,200910,National,E92000001,England,,,,,,State-funded primary,Total,Total,4096582,619,0.015110158,37212,0.908367024,19399,0.473541113
-Academic year,200809,National,E92000001,England,,,,,,State-funded primary,Total,Total,4077350,710,0.017413271,38873,0.953388843,20360,0.499343937
-Academic year,200809,National,E92000001,England,,,,,,State-funded special,Total,Total,91163,116,0.127244606,15565,17.07381284,6019,6.602459331
-Academic year,200910,National,E92000001,England,,,,,,Total,Total,Total,7466884,5741.020384,0.076886428,331380,4.437995823,179757,2.407389749
-Academic year,200708,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3294575,6995.000176,0.212318741,324183,9.839903478,176161,5.347002269
-Academic year,201112,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3234877,4392,0.135770232,252213,7.79667975,137067,4.237162649
-Academic year,201112,National,E92000001,England,,,,,,State-funded special,Total,Total,94578,84,0.088815581,14371,15.19486561,5707,6.034172852
-Academic year,200607,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3325624,7522,0.226183116,363271,10.92339362,197140,5.92791007
-Academic year,200708,National,E92000001,England,,,,,,State-funded special,Total,Total,90686,167,0.184151909,16354,18.03365459,6262,6.905145226
-Academic year,200708,National,E92000001,England,,,,,,Total,Total,Total,7475663,8126.000186,0.108699391,383831,5.134407477,204885,2.740693367
-Academic year,202223,National,E92000001,England,,,,,,State-funded primary,Total,Total,4647851,1201,0.025839899,84264,1.812966896,38233,0.822595217
-Academic year,202223,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3630171,8054,0.221862827,685930,18.89525314,258546,7.122143833
-Academic year,202223,National,E92000001,England,,,,,,State-funded special,Total,Total,152578,121,0.0793037,16767,10.98913343,7261,4.758877427
-Academic year,202223,National,E92000001,England,,,,,,Total,Total,Total,8430600,9376,0.111213911,786961,9.334578796,304040,3.60638626
-Academic year,202021,National,E92000001,England,,,,,,State-funded special,Total,Total,137583,44,0.031980695,10027,7.287964356,5035,3.659609109
-Academic year,202021,National,E92000001,England,,,,,,Total,Total,Total,8291354,3928,0.047374651,352454,4.250861801,182459,2.200593534
-Academic year,202122,National,E92000001,England,,,,,,State-funded special,Total,Total,145402,79,0.054332127,13957,9.598905104,6376,4.385084112
-Academic year,202122,National,E92000001,England,,,,,,State-funded primary,Total,Total,4655489,758,0.016281856,66203,1.422041809,31437,0.67526741
-Academic year,202122,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3567402,5658,0.158602815,498120,13.96310256,214650,6.016983788
-Academic year,202122,National,E92000001,England,,,,,,Total,Total,Total,8368293,6495,0.077614395,578280,6.910369893,252463,3.016899623
-Academic year,201920,National,E92000001,England,,,,,,State-funded special,Total,Total,130997,49,0.037405437,10165,7.759719688,4982,3.80314053
-Academic year,202021,National,E92000001,England,,,,,,State-funded primary,Total,Total,4660682,392,0.008410786,46203,0.991335603,24418,0.52391474
-Academic year,202021,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3493089,3492,0.099968824,296224,8.480287791,153006,4.380249115
-Academic year,201819,National,E92000001,England,,,,,,State-funded special,Total,Total,124432,74,0.059470233,14087,11.32104282,5780,4.645107368
-Academic year,201819,National,E92000001,England,,,,,,Total,Total,Total,8179491,7894,0.096509673,438265,5.358096243,199765,2.442266884
-Academic year,201920,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3409277,4269,0.125217165,253307,7.429933091,125816,3.69040122
-Academic year,201920,National,E92000001,England,,,,,,State-funded primary,Total,Total,4714772,739,0.015674141,47261,1.002402661,23726,0.503226879
-Academic year,201920,National,E92000001,England,,,,,,Total,Total,Total,8255046,5057,0.061259501,310733,3.76415831,154524,1.871873276
-Academic year,201718,National,E92000001,England,,,,,,State-funded primary,Total,Total,4716244,1210,0.025656009,66105,1.401645038,29236,0.619900073
-Academic year,201718,National,E92000001,England,,,,,,State-funded special,Total,Total,118052,83,0.070308,14563,12.33608918,5788,4.902924135
-Academic year,201718,National,E92000001,England,,,,,,Total,Total,Total,8092747,7905,0.097680058,410753,5.075569519,188503,2.329283246
-Academic year,201819,National,E92000001,England,,,,,,State-funded primary,Total,Total,4727089,1067,0.022572031,66463,1.406002722,29771,0.629795631
-Academic year,201819,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3327970,6753,0.202916493,357715,10.74874473,164214,4.934359384
-Academic year,201718,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3258451,6612,0.202918503,330085,10.13012011,153479,4.710182845
-Academic year,201617,National,E92000001,England,,,,,,State-funded special,Total,Total,112326,82,0.073001798,14635,13.02904047,5714,5.086978972
-Academic year,201213,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3210119,3903,0.121584278,215560,6.715015861,121055,3.771044002
-Academic year,201213,National,E92000001,England,,,,,,State-funded special,Total,Total,97171,64,0.065863272,14095,14.50535654,5632,5.795967933
-Academic year,201617,National,E92000001,England,,,,,,State-funded primary,Total,Total,4689658,1253,0.026718366,64338,1.371912408,28942,0.617145216
-Academic year,201617,National,E92000001,England,,,,,,Total,Total,Total,8025073,7719,0.096186041,381864,4.758386622,183474,2.286259577
-Academic year,201314,National,E92000001,England,,,,,,State-funded special,Total,Total,100239,73,0.072825946,13890,13.85688205,5522,5.508833887
-Academic year,201516,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3193418,5446,0.170538276,270137,8.459180727,135924,4.256379841
-Academic year,201516,National,E92000001,England,,,,,,Total,Total,Total,7916227,6684,0.084434163,339362,4.286915977,167127,2.111195144
-Academic year,201516,National,E92000001,England,,,,,,State-funded primary,Total,Total,4615172,1147,0.024852812,55739,1.20773397,25765,0.558267384
-Academic year,201516,National,E92000001,England,,,,,,State-funded special,Total,Total,107637,91,0.084543419,13486,12.5291489,5438,5.052166077
-Academic year,201415,National,E92000001,England,,,,,,State-funded special,Total,Total,103970,92,0.088487064,14082,13.54429162,5437,5.229393094
-Academic year,201617,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3223089,6384,0.198070857,302891,9.39753758,148818,4.617247616
-Academic year,201112,National,E92000001,England,,,,,,State-funded primary,Total,Total,4217001,690,0.016362339,37788,0.896087053,19628,0.465449261
-Academic year,201112,National,E92000001,England,,,,,,Total,Total,Total,7546456,5166,0.068455975,304372,4.033310471,162402,2.152030039
-Academic year,201314,National,E92000001,England,,,,,,State-funded primary,Total,Total,4416708,872,0.019743211,45007,1.019016879,21650,0.490184092
-Academic year,201415,National,E92000001,England,,,,,,Total,Total,Total,7799006,5795,0.074304341,302975,3.884789933,154058,1.975354295
-Academic year,201011,National,E92000001,England,,,,,,State-funded primary,Total,Total,4137755,606,0.014645623,37788,0.913248851,19728,0.476780283
-Academic year,201011,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3262633,4368,0.1338796,271976,8.336089287,148902,4.563859925
-Academic year,201415,National,E92000001,England,,,,,,State-funded primary,Total,Total,4510308,917,0.020331206,49653,1.100878255,23628,0.523866663
-Academic year,201415,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3184728,4786,0.15027971,239240,7.512101504,124993,3.924762177
-Academic year,200607,National,E92000001,England,,,,,,State-funded special,Total,Total,90597,164,0.181021447,16598,18.32069495,6336,6.99360906
-Academic year,200708,National,E92000001,England,,,,,,State-funded primary,Total,Total,4090402,964.00001,0.023567366,43294,1.058428976,22462,0.54913918
-Academic year,200809,National,E92000001,England,,,,,,Total,Total,Total,7446642,6379,0.085662773,355139,4.769116066,190721,2.561167839
-Academic year,200607,National,E92000001,England,,,,,,State-funded primary,Total,Total,4110749,972,0.023645326,45719,1.112181746,23651,0.575345272
-Academic year,200607,National,E92000001,England,,,,,,Total,Total,Total,7526970,8658,0.115026365,425588,5.654174256,227127,3.017509038
-Academic year,201314,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3181361,4004,0.125858084,210578,6.619116787,115673,3.635959578
-Academic year,201314,National,E92000001,England,,,,,,Total,Total,Total,7698308,4949,0.064286854,269475,3.500444513,142845,1.855537606
-Academic year,200809,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3278129,5553,0.169395408,300701,9.172945909,164342,5.013286542
-Academic year,202324,National,E92000001,England,,,,,,Total,Total,Total,8445343,10885,0.12889,954952,11.30744,341266,4.04088
-Academic year,202324,National,E92000001,England,,,,,,State-funded primary,Total,Total,4614990,1462,0.03168,104803,2.27093,45883,0.99422
-Academic year,202324,National,E92000001,England,,,,,,State-funded secondary,Total,Total,3669933,9298,0.25336,829896,22.61338,287265,7.82753
-Academic year,202324,National,E92000001,England,,,,,,State-funded special,Total,Total,160420,125,0.07792,20253,12.62498,8118,5.06047
+202425,National,E92000001,England,,,,,,,Total,Total,Total,8395291,9906,0.11799,913000,10.87514,326674,3.89116
+202425,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4554974,1481,0.03251,112545,2.47082,49399,1.08451
+202425,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3671427,8291,0.22582,779642,21.23539,268711,7.31898
+202425,National,E92000001,England,,,,,,,State-funded special,Total,Total,168890,134,0.07934,20813,12.32341,8564,5.07076
+202324,National,E92000001,England,,,,,,,Total,Total,Total,8445343,10885,0.12889,954952,11.30744,341266,4.04088
+202324,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4614990,1462,0.03168,104803,2.27093,45883,0.99422
+202324,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3669933,9298,0.25336,829896,22.61338,287265,7.82753
+202324,National,E92000001,England,,,,,,,State-funded special,Total,Total,160420,125,0.07792,20253,12.62498,8118,5.06047
+202223,National,E92000001,England,,,,,,,Total,Total,Total,8430600,9376,0.11121,786961,9.33458,304040,3.60639
+202223,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4647851,1201,0.02584,84264,1.81297,38233,0.8226
+202223,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3630171,8054,0.22186,685930,18.89525,258546,7.12214
+202223,National,E92000001,England,,,,,,,State-funded special,Total,Total,152578,121,0.0793,16767,10.98913,7261,4.75888
+202122,National,E92000001,England,,,,,,,Total,Total,Total,8368293,6495,0.07761,578280,6.91037,252463,3.0169
+202122,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4655489,758,0.01628,66203,1.42204,31437,0.67527
+202122,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3567402,5658,0.1586,498120,13.9631,214650,6.01698
+202122,National,E92000001,England,,,,,,,State-funded special,Total,Total,145402,79,0.05433,13957,9.59891,6376,4.38508
+202021,National,E92000001,England,,,,,,,Total,Total,Total,8291354,3928,0.04737,352454,4.25086,182459,2.20059
+202021,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4660682,392,0.00841,46203,0.99134,24418,0.52391
+202021,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3493089,3492,0.09997,296224,8.48029,153006,4.38025
+202021,National,E92000001,England,,,,,,,State-funded special,Total,Total,137583,44,0.03198,10027,7.28796,5035,3.65961
+201920,National,E92000001,England,,,,,,,Total,Total,Total,8255046,5057,0.06126,310733,3.76416,154524,1.87187
+201920,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4714772,739,0.01567,47261,1.0024,23726,0.50323
+201920,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3409277,4269,0.12522,253307,7.42993,125816,3.6904
+201920,National,E92000001,England,,,,,,,State-funded special,Total,Total,130997,49,0.03741,10165,7.75972,4982,3.80314
+201819,National,E92000001,England,,,,,,,Total,Total,Total,8179491,7894,0.09651,438265,5.3581,199765,2.44227
+201819,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4727089,1067,0.02257,66463,1.406,29771,0.6298
+201819,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3327970,6753,0.20292,357715,10.74874,164214,4.93436
+201819,National,E92000001,England,,,,,,,State-funded special,Total,Total,124432,74,0.05947,14087,11.32104,5780,4.64511
+201718,National,E92000001,England,,,,,,,Total,Total,Total,8092747,7905,0.09768,410753,5.07557,188503,2.32928
+201718,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4716244,1210,0.02566,66105,1.40165,29236,0.6199
+201718,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3258451,6612,0.20292,330085,10.13012,153479,4.71018
+201718,National,E92000001,England,,,,,,,State-funded special,Total,Total,118052,83,0.07031,14563,12.33609,5788,4.90292
+201617,National,E92000001,England,,,,,,,Total,Total,Total,8025073,7719,0.09619,381864,4.75839,183474,2.28626
+201617,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4689658,1253,0.02672,64338,1.37191,28942,0.61715
+201617,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3223089,6384,0.19807,302891,9.39754,148818,4.61725
+201617,National,E92000001,England,,,,,,,State-funded special,Total,Total,112326,82,0.073,14635,13.02904,5714,5.08698
+201516,National,E92000001,England,,,,,,,Total,Total,Total,7916227,6684,0.08443,339362,4.28692,167127,2.1112
+201516,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4615172,1147,0.02485,55739,1.20773,25765,0.55827
+201516,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3193418,5446,0.17054,270137,8.45918,135924,4.25638
+201516,National,E92000001,England,,,,,,,State-funded special,Total,Total,107637,91,0.08454,13486,12.52915,5438,5.05217
+201415,National,E92000001,England,,,,,,,Total,Total,Total,7799006,5795,0.0743,302975,3.88479,154058,1.97535
+201415,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4510308,917,0.02033,49653,1.10088,23628,0.52387
+201415,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3184728,4786,0.15028,239240,7.5121,124993,3.92476
+201415,National,E92000001,England,,,,,,,State-funded special,Total,Total,103970,92,0.08849,14082,13.54429,5437,5.22939
+201314,National,E92000001,England,,,,,,,Total,Total,Total,7698308,4949,0.06429,269475,3.50044,142845,1.85554
+201314,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4416708,872,0.01974,45007,1.01902,21650,0.49018
+201314,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3181361,4004,0.12586,210578,6.61912,115673,3.63596
+201314,National,E92000001,England,,,,,,,State-funded special,Total,Total,100239,73,0.07283,13890,13.85688,5522,5.50883
+201213,National,E92000001,England,,,,,,,Total,Total,Total,7616872,4632,0.06081,267520,3.5122,146071,1.91773
+201213,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4309582,665,0.01543,37865,0.87862,19384,0.44979
+201213,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3210119,3903,0.12158,215560,6.71502,121055,3.77104
+201213,National,E92000001,England,,,,,,,State-funded special,Total,Total,97171,64,0.06586,14095,14.50536,5632,5.79597
+201112,National,E92000001,England,,,,,,,Total,Total,Total,7546456,5166,0.06846,304372,4.03331,162402,2.15203
+201112,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4217001,690,0.01636,37788,0.89609,19628,0.46545
+201112,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3234877,4392,0.13577,252213,7.79668,137067,4.23716
+201112,National,E92000001,England,,,,,,,State-funded special,Total,Total,94578,84,0.08882,14371,15.19487,5707,6.03417
+201011,National,E92000001,England,,,,,,,Total,Total,Total,7493306,5082,0.06782,324106,4.32527,174280,2.32581
+201011,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4137755,606,0.01465,37788,0.91325,19728,0.47678
+201011,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3262633,4368,0.13388,271976,8.33609,148902,4.56386
+201011,National,E92000001,England,,,,,,,State-funded special,Total,Total,92918,108,0.11623,14342,15.43511,5650,6.08063
+200910,National,E92000001,England,,,,,,,Total,Total,Total,7466884,5741.020384,0.07689,331380,4.438,179757,2.40739
+200910,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4096582,619,0.01511,37212,0.90837,19399,0.47354
+200910,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3278485,5020.020384,0.15312,279262,8.51802,154474,4.71175
+200910,National,E92000001,England,,,,,,,State-funded special,Total,Total,91817,102,0.11109,14906,16.23447,5884,6.4084
+200809,National,E92000001,England,,,,,,,Total,Total,Total,7446642,6379,0.08566,355139,4.76912,190721,2.56117
+200809,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4077350,710,0.01741,38873,0.95339,20360,0.49934
+200809,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3278129,5553,0.1694,300701,9.17295,164342,5.01329
+200809,National,E92000001,England,,,,,,,State-funded special,Total,Total,91163,116,0.12724,15565,17.07381,6019,6.60246
+200708,National,E92000001,England,,,,,,,Total,Total,Total,7475663,8126.000186,0.1087,383831,5.13441,204885,2.74069
+200708,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4090402,964.00001,0.02357,43294,1.05843,22462,0.54914
+200708,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3294575,6995.000176,0.21232,324183,9.8399,176161,5.347
+200708,National,E92000001,England,,,,,,,State-funded special,Total,Total,90686,167,0.18415,16354,18.03365,6262,6.90515
+200607,National,E92000001,England,,,,,,,Total,Total,Total,7526970,8658,0.11503,425588,5.65417,227127,3.01751
+200607,National,E92000001,England,,,,,,,State-funded primary,Total,Total,4110749,972,0.02365,45719,1.11218,23651,0.57535
+200607,National,E92000001,England,,,,,,,State-funded secondary,Total,Total,3325624,7522,0.22618,363271,10.92339,197140,5.92791
+200607,National,E92000001,England,,,,,,,State-funded special,Total,Total,90597,164,0.18102,16598,18.32069,6336,6.99361
